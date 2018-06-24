@@ -2,4 +2,6 @@
 var playlist = {bob : 'joy to the world'
 }
 
-var updatePlaylist(playlist, name, title)
+function updatePlaylist(playlist, name, title) {
+  playlist
+}
